@@ -1,0 +1,83 @@
+[33mcommit 033e52f903ce46580f368d265f64693297debcce[m
+Author: Jth Rdz <fernetsystem@gmail.com>
+Date:   Sat Dec 12 01:21:22 2015 -0600
+
+    My controller
+
+[33mcommit b6f957445c54581370baa9b117996653013c789e[m
+Author: Jth Rdz <fernetsystem@gmail.com>
+Date:   Sat Dec 12 01:21:09 2015 -0600
+
+    Querys with model
+
+[33mcommit 27d8fd6dc8d93d5c390a801493779819de27dc63[m
+Author: Jth Rdz <fernetsystem@gmail.com>
+Date:   Sat Dec 12 01:20:56 2015 -0600
+
+    conexion to db
+
+[33mcommit 7a189793fa26074595beeab829305934fc7ede92[m
+Author: Jth Rdz <fernetsystem@gmail.com>
+Date:   Sat Dec 12 01:17:09 2015 -0600
+
+    view error login
+
+[33mcommit 60d3694004a3c0c39e26eaaf6af6e7fc2872bbb4[m
+Author: Jth Rdz <fernetsystem@gmail.com>
+Date:   Sat Dec 12 01:16:56 2015 -0600
+
+    view login
+
+[33mcommit 52547ab7cd767e771c26e0fb071bd2fda162a68f[m
+Author: Jth Rdz <fernetsystem@gmail.com>
+Date:   Sat Dec 12 01:16:02 2015 -0600
+
+    Files header and footer
+
+[33mcommit f976f554871f35bb8d4e28b1b0e25b9a96570a16[m
+Author: Jth Rdz <fernetsystem@gmail.com>
+Date:   Sat Dec 12 01:12:10 2015 -0600
+
+    resource app mvc php panel control
+
+[33mcommit 9d1b9e11d1db6afc3b17fadb4f9b628d4e4f8655[m
+Author: Jth Rdz <fernetsystem@gmail.com>
+Date:   Sat Dec 12 01:11:51 2015 -0600
+
+    init MVC on index
+
+[33mcommit 596b606fe9e1d9e97a4bd617a8627596a6c80b83[m
+Author: Jth Rdz <fernetsystem@gmail.com>
+Date:   Sat Dec 12 01:11:16 2015 -0600
+
+    return json all products for kids
+
+[33mcommit b6ee15b78f56f79e5fdf54ec716c4a467f14790e[m
+Author: Jth Rdz <fernetsystem@gmail.com>
+Date:   Sat Dec 12 01:10:40 2015 -0600
+
+    return for  post a json
+
+[33mcommit efa311f55aa19c05db36cdf02010de27f6c66667[m
+Author: Jth Rdz <fernetsystem@gmail.com>
+Date:   Sat Dec 12 01:04:39 2015 -0600
+
+    return json allBridges
+
+[33mcommit 1173e41b5785095b2a37fa507fc1e5b2f6b31928[m
+Author: Jth Rdz <fernetsystem@gmail.com>
+Date:   Sat Dec 12 01:04:05 2015 -0600
+
+    return json allPastillas
+
+[33mcommit d655158abee7f6ee0d489ae7f7a7c7a53d755385[m
+Author: Jth Rdz <fernetsystem@gmail.com>
+Date:   Sat Dec 12 01:03:52 2015 -0600
+
+    return json allSustancias
+
+[33mcommit ffaa77c08357ffea4f53152b6ec14e225c655c2c[m
+Author: Jth Rdz <fernetsystem@gmail.com>
+Date:   Sat Dec 12 01:03:36 2015 -0600
+
+    return json allProducts
